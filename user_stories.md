@@ -1,45 +1,37 @@
 # User Stories BookSwap
 
-## Indice
-- [User Stories BookSwap](#user-stories-bookswap)
-  - [Indice](#indice)
-  - [Descrição do produto](#descrição-do-produto)
-  - [Time](#time)
-    - [Antonio André Barcelos Chagas - @andrebarceloschagas](#antonio-andré-barcelos-chagas---andrebarceloschagas)
-    - [Caio Santos Silva - @CaioSantdev](#caio-santos-silva---caiosantdev)
-    - [Eduardo Henrique Coelho Ramos - @KiwiProgamador](#eduardo-henrique-coelho-ramos---kiwiprogamador)
-    - [Laura Barbosa Henrique - @tinywin](#laura-barbosa-henrique---tinywin)
-    - [Lucas José de Sousa Gomes - @Yamatosz](#lucas-josé-de-sousa-gomes---yamatosz)
-    - [Luiz Carlos Porto do Carmo - @LuizCPorto](#luiz-carlos-porto-do-carmo---luizcporto)
-    - [Projeto de Sistemas 2024/2](#projeto-de-sistemas-20242)
-    - [Professor Edeilson](#professor-edeilson)
-  - [Autenticação e Cadastro](#autenticação-e-cadastro)
-    - [RF01 - Realizar Cadastro](#rf01---realizar-cadastro)
-    - [RF02 - Realizar Login](#rf02---realizar-login)
-    - [RF03 - Recuperar Senha](#rf03---recuperar-senha)
-  - [Gerenciamento de Perfil](#gerenciamento-de-perfil)
-    - [RF04 - Acessar Perfil do Usuário](#rf04---acessar-perfil-do-usuário)
-    - [RF05 - Editar Perfil do Usuário](#rf05---editar-perfil-do-usuário)
-    - [RF06 - Acessar Perfil de Outro Usuário](#rf06---acessar-perfil-de-outro-usuário)
-  - [Gerenciamento de Livros](#gerenciamento-de-livros)
-    - [RF07 - Adcionar Livro](#rf07---adcionar-livro)
-    - [RF08 - Acessar Perfil de Livro](#rf08---acessar-perfil-de-livro)
-    - [RF09 - Editar o Prefil de Livro](#rf09---editar-o-prefil-de-livro)
-    - [RF10 - Editar Resenhas de Livros](#rf10---editar-resenhas-de-livros)
-  - [Descoberta e Troca de Livros](#descoberta-e-troca-de-livros)
-    - [RF11 - Realizar Pesquisa de Livros](#rf11---realizar-pesquisa-de-livros)
-    - [RF12 - Visualizar Livros Disponíveis para Troca](#rf12---visualizar-livros-disponíveis-para-troca)
-    - [RF13 - Propor Troca de Livros](#rf13---propor-troca-de-livros)
-    - [RF14 - Acompanhar Status da Troca](#rf14---acompanhar-status-da-troca)
-    - [RF15 - Confirmar Troca](#rf15---confirmar-troca)
-  - [Comunicação](#comunicação)
-    - [RF16 - Acessar Página de Chat](#rf16---acessar-página-de-chat)
-    - [RF17 - Iniciar Chat com Outro Usuario](#rf17---iniciar-chat-com-outro-usuario)
-  - [Informações Gerais](#informações-gerais)
-    - [RF18 - Acessar a Página Sobre](#rf18---acessar-a-página-sobre)
-
 ![logo](https://github.com/user-attachments/assets/f4c41849-31d1-43dc-b9be-26cc731e0b18)
 
+- Índice
+    - [Descrição do produto](#descrição-do-produto)
+    - [Time](#time)
+    - [Autenticação e Cadastro](#autenticação-e-cadastro)
+      - [RF01 - Realizar Cadastro](#rf01---realizar-cadastro)
+      - [RF02 - Realizar Login](#rf02---realizar-login)
+      - [RF03 - Recuperar Senha](#rf03---recuperar-senha)
+    - [Gerenciamento de Perfil](#gerenciamento-de-perfil)
+      - [RF04 - Acessar Perfil do Usuário](#rf04---acessar-perfil-do-usuário)
+      - [RF05 - Editar Perfil do Usuário](#rf05---editar-perfil-do-usuário)
+      - [RF06 - Acessar Perfil de Outro Usuário](#rf06---acessar-perfil-de-outro-usuário)
+    - [Gerenciamento de Livros](#gerenciamento-de-livros)
+      - [RF07 - Adicionar Livro](#rf07---adicionar-livro)
+      - [RF08 - Acessar Perfil de Livro](#rf08---acessar-perfil-de-livro)
+      - [RF09 - Editar o Prefil de Livro](#rf09---editar-o-prefil-de-livro)
+      - [RF10 - Visualizar Páginas de Resenhas](#rf10---visualizar-páginas-de-resenhas)
+      - [RF11 - Editar Resenhas de Livros](#rf11---editar-resenhas-de-livros)
+    - [Descoberta e Troca de Livros](#descoberta-e-troca-de-livros)
+      - [RF12 - Realizar Pesquisa de Livros](#rf12---realizar-pesquisa-de-livros)
+      - [RF13 - Acessar Página de Histórico de Trocas](#rf13---acessar-página-de-histórico-de-trocas)
+      - [RF14 - Visualizar Livros Disponíveis para Troca](#rf14---visualizar-livros-disponíveis-para-troca)
+      - [RF15 - Propor Troca de Livros](#rf15---propor-troca-de-livros)
+      - [RF16 - Acompanhar Status da Troca](#rf16---acompanhar-status-da-troca)
+      - [RF17 - Confirmar Troca](#rf17---confirmar-troca)
+    - [Comunicação](#comunicação)
+      - [RF18 - Acessar Página de Chat](#rf18---acessar-página-de-chat)
+      - [RF19 - Iniciar Chat com Outro Usuario](#rf18---acessar-página-de-chat)
+    - [Informações Gerais](#informações-gerais)
+      - [RF20 - Acessar a Página Sobre](#rf20---acessar-a-página-sobre)
+  
 ## Descrição do produto
 
 BookSwap é uma plataforma online que conecta amantes de livros, facilitando a troca de títulos e a construção de uma comunidade literária. Crie um perfil, adicione seus livros à biblioteca virtual e explore o catálogo de outros usuários para encontrar o próximo livro para ler.
@@ -55,9 +47,7 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 ---
 
-### [Projeto de Sistemas 2024/2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2)
-
-### Professor Edeilson
+### [Projeto de Sistemas 2024/2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2) - Professor Edeilson
 
 ---
 
@@ -103,7 +93,7 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 ## Gerenciamento de Livros
 
-### RF07 - Adcionar Livro
+### RF07 - Adicionar Livro
 
 **Como um** usuário, **eu quero** adicionar livros à minha biblioteca virtual **para que** possa compartilhar com outros membros da comunidade.
 
@@ -135,36 +125,37 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 ## Descoberta e Troca de Livros
 
-### RF11 - Realizar Pesquisa de Livros
+### RF12 - Realizar Pesquisa de Livros
 
 **Como um** usuário, **eu quero** realizar pesquisas de livros **para que** possa encontrar títulos que me interessam.
 
 ![Tela pesquisa](https://github.com/user-attachments/assets/c2e881ac-b3c1-4791-864e-eee751b52253)
 
-## RF - Acessar Página de Histórico de Trocas
+## RF13 - Acessar Página de Histórico de Trocas
+
+**Como um** usuário, **eu quero** acessar meu hitórico de trocas na plataforma.
 
 ![Tela historico](https://github.com/user-attachments/assets/afb38f4d-cc70-4d14-84c6-1e8df7669853)
 
-
-### RF12 - Visualizar Livros Disponíveis para Troca
+### RF14 - Visualizar Livros Disponíveis para Troca
 
 **Como um** usuário, **eu quero** visualizar os livros disponíveis para troca na plataforma **para que** possa encontrar livros para trocar.
 
 ![Tela disponíveis para troca](https://github.com/user-attachments/assets/4dccd771-306c-45fc-b7a2-dd57101be87f)
 
-### RF13 - Propor Troca de Livros
+### RF15 - Propor Troca de Livros
 
 **Como um** usuário, **eu quero** propor uma troca de livros com outro usuário **para que** possa trocar livros com outros membros da comunidade.
 
 ![Tela propor troca](https://github.com/user-attachments/assets/e05a3042-bf69-4ed4-95da-c2ffc87a61bb)
 
-### RF14 - Acompanhar Status da Troca
+### RF16 - Acompanhar Status da Troca
 
 **Como um** usuário, **eu quero** acompanhar o status das minhas trocas em andamento **para que** possa acompanhar o progresso das minhas trocas.
 
 ![Tela troca em andamento](https://github.com/user-attachments/assets/6f95c582-3bf9-4e41-985e-07c21f29a16c)
 
-### RF15 - Confirmar Troca
+### RF17 - Confirmar Troca
 
 **Como um** usuário, **eu quero** confirmar uma troca após recebimento do livro **para que** possa finalizar a troca.
 
@@ -172,13 +163,13 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 ## Comunicação
 
-### RF16 - Acessar Página de Chat
+### RF18 - Acessar Página de Chat
 
 **Como um** usuário, **eu quero** acessar a página de chat **para que** possa conversar com outros usuários sobre livros e trocas.
 
 ![Tela chat geral](https://github.com/user-attachments/assets/f7aed3aa-da50-4996-aaa0-a15fd92b7ff0)
 
-### RF17 - Iniciar Chat com Outro Usuario
+### RF19 - Iniciar Chat com Outro Usuario
 
 **Como um** usuário, **eu quero** iniciar um chat com outro usuário **para que** possa discutir detalhes de uma troca ou simplesmente conversar sobre livros.
 
@@ -186,9 +177,8 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 ## Informações Gerais
 
-### RF18 - Acessar a Página Sobre
+### RF20 - Acessar a Página Sobre
 
 **Como um** usuário, **eu quero** acessar a página sobre **para que** possa obter informações sobre a plataforma, seus termos de uso e política de privacidade.
 
 ![Tela sobre](https://github.com/user-attachments/assets/6b437848-113a-4b89-871c-0ec1a8bd7d34)
-
