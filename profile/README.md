@@ -13,28 +13,21 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 ## Time
 
-Antonio André Barcelos Chagas - [@andrebarceloschagas](https://github.com/andrebarceloschagas)
-Caio Santos Silva - [@CaioSantdev](https://github.com/CaioSantdev)
-Eduardo Henrique Coelho Ramos - [@KiwiProgamador](https://github.com/KiwiProgamador)
-Laura Barbosa Henrique - [@tinywin](https://github.com/tinywin)
-Lucas José de Sousa Gomes - [@Yamatosz](https://github.com/Yamatosz)
-Luiz Carlos Porto do Carmo - [@LuizCPorto](https://github.com/LuizCPorto)
-
---
+### Antonio André Barcelos Chagas - [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+### Caio Santos Silva - [@CaioSantdev](https://github.com/CaioSantdev)
+### Eduardo Henrique Coelho Ramos - [@KiwiProgamador](https://github.com/KiwiProgamador)
+### Laura Barbosa Henrique - [@tinywin](https://github.com/tinywin)
+### Lucas José de Sousa Gomes - [@Yamatosz](https://github.com/Yamatosz)
+### Luiz Carlos Porto do Carmo - [@LuizCPorto](https://github.com/LuizCPorto)
 
 ## [Modelo Arquitetural](/modelo_aquitetural.md)
 
---
 ## [Minimum Viable Product](/mvp.md)
 
---
 ## [User Stories](/user_stories.md)
 
---
 ## [Prototipação](https://www.figma.com/design/92SVpi8xxKQfWpxARVSmsQ/Telas-do-bookswap?node-id=0-1&t=uoaRZ82dcTOitj2I-0)
 
---
 ## [Kanban](https://github.com/orgs/BookSwap-PS/projects/2)
 
---
 ## [Relatórios de Entregas](/relatorio_entregas.md)
