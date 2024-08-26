@@ -1,11 +1,17 @@
 
 # BookSwap
 
-### [Projeto de Sistemas 2024/2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2)
-
-### Professor Edeilson
-
 ![logo](https://github.com/user-attachments/assets/f4c41849-31d1-43dc-b9be-26cc731e0b18)
+
+- Índice
+  - [Descrição do Produto](#descrição-do-produto)
+  - [Time](#time)
+  - [Modelo Arquitetural](#modelo-arquitetural)
+  - [Minimum Viable Product](#minimum-viable-product)
+  - [User Stories](#user-stories)
+  - [Prototipação](#prototipação)
+  - [Kanban](#kanban)
+  - [Relatório de Entregas](#relatórios-de-entregas)
 
 ## Descrição do produto
 
@@ -19,6 +25,12 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 ### Laura Barbosa Henrique - [@tinywin](https://github.com/tinywin)
 ### Lucas José de Sousa Gomes - [@Yamatosz](https://github.com/Yamatosz)
 ### Luiz Carlos Porto do Carmo - [@LuizCPorto](https://github.com/LuizCPorto)
+
+---
+
+### [Projeto de Sistemas 2024/2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2) - Professor Edeilson
+
+---
 
 ## [Modelo Arquitetural](/modelo_aquitetural.md)
 
