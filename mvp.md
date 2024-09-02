@@ -5,6 +5,7 @@
 - Índice
   - [Descrição do produto](#descrição-do-produto)
   - [Time](#time)
+  - [Definindo o Problema)()
   - [MVP no BookSwap](#mvp-no-bookswap)
   - [Por que um MVP para o BookSwap?](#por-que-um-mvp-para-o-bookswap)
   - [Visão Geral das Sprints](#visão-geral-das-sprints)
@@ -48,7 +49,7 @@ O Business Model Canvas é uma ferramenta visual que permite descrever, analisar
 
 | Elemento | Descrição |
 |---|---|
-| **Clientes** | * Segmentos: Amantes de livros, estudantes, colecionadores...<br>* Relações: Comunidade online, suporte, eventos |
+| **Clientes** | Segmentos: Amantes de livros, estudantes, colecionadores...<br> Relações: Comunidade online, suporte, eventos |
 | **Proposta de valor** | Acesso a vasta biblioteca, troca gratuita, comunidade, impacto ambiental |
 | **Canais** | Plataforma online, apps, redes sociais, parcerias |
 | **Relacionamento com os clientes** | Comunidade, fóruns, eventos, programa de fidelidade |
@@ -104,16 +105,6 @@ Para realizar uma análise completa, vamos considerar os seguintes aspectos:
 **Estante Virtual:** É um marketplace consolidado, mas pode se beneficiar de uma comunidade mais engajada e de um foco maior em sustentabilidade.
 
 **BookSwap (Potencial):** Tem o potencial de criar uma comunidade única e focada na troca de livros, mas precisa trabalhar na divulgação e no desenvolvimento de novas funcionalidades.
-
-### Próximos Passos
-
-* **Análise mais profunda:** Realizar uma análise mais aprofundada das métricas de cada plataforma (número de usuários, taxa de engajamento, etc.).
-
-* **Pesquisa de mercado:** Realizar pesquisas com usuários de plataformas concorrentes para identificar suas necessidades e expectativas.
-
-* **Desenvolvimento de estratégias:** Elaborar estratégias de marketing, produto e comunicação para diferenciar o BookSwap e atrair novos usuários.
-
-* **Monitoramento contínuo:** Monitorar as ações dos concorrentes e ajustar as estratégias do BookSwap conforme necessário.
 
 ## MVP no BookSwap
 
