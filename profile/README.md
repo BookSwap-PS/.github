@@ -38,8 +38,8 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 ## [User Stories](/user_stories.md)
 
-## [Prototipação](https://www.figma.com/design/92SVpi8xxKQfWpxARVSmsQ/Telas-do-bookswap?node-id=0-1&t=uoaRZ82dcTOitj2I-0)
+## [Prototipação](https://www.figma.com/proto/92SVpi8xxKQfWpxARVSmsQ/Telas-do-bookswap?node-id=1-2&node-type=CANVAS&t=omIRD0rLrkgfpXs7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
-## [Kanban](https://github.com/orgs/BookSwap-PS/projects/2)
+## [Planejamento](https://github.com/orgs/BookSwap-PS/projects/3)
 
 ## [Relatórios de Entregas](/relatorio_entregas.md)
