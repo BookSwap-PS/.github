@@ -5,7 +5,9 @@
 - Índice
   - [Descrição do produto](#descrição-do-produto)
   - [Time](#time)
-  - [Definindo o Problema)()
+  - [Definindo o Problema](#definindo-o-problema)
+  - [Business Model Canvas](#business-model-canvas)
+  - [Mapeamento e Estudo dos Concorrentes: Skoob e Estante Virtual](#mapeamento-e-estudo-dos-concorrentes-skoob-e-estante-virtual)
   - [MVP no BookSwap](#mvp-no-bookswap)
   - [Por que um MVP para o BookSwap?](#por-que-um-mvp-para-o-bookswap)
   - [Visão Geral das Sprints](#visão-geral-das-sprints)
