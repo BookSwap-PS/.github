@@ -10,7 +10,9 @@
   - [Minimum Viable Product](#minimum-viable-product)
   - [User Stories](#user-stories)
   - [Prototipação](#prototipação)
-  - [Kanban](#kanban)
+  - [BackEnd](#backend)
+  - [FrontEnd](#frontend)
+  - [Planejamento](#planejamento)
   - [Relatório de Entregas](#relatórios-de-entregas)
 
 ## Descrição do produto
@@ -39,6 +41,10 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 ## [User Stories](/user_stories.md)
 
 ## [Prototipação](https://www.figma.com/proto/92SVpi8xxKQfWpxARVSmsQ/Telas-do-bookswap?node-id=1-2&node-type=CANVAS&t=omIRD0rLrkgfpXs7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+## [BackEnd](https://github.com/BookSwap-PS/BookSwap-BackEnd)
+
+## [Frontend](https://github.com/BookSwap-PS/BookSwap-FrontEnd)
 
 ## [Planejamento](https://github.com/orgs/BookSwap-PS/projects/3)
 
