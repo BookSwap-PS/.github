@@ -56,7 +56,7 @@ O Business Model Canvas é uma ferramenta visual que permite descrever, analisar
 
 | Elemento | Descrição |
 |---|---|
-| **Clientes** | Segmentos: Amantes de livros, estudantes, colecionadores...<br> Relações: Comunidade online, suporte, eventos |
+| **Clientes** | Segmentos: Amantes de livros, estudantes, colecionadores... Relações: Comunidade online, suporte, eventos |
 | **Proposta de valor** | Acesso a vasta biblioteca, troca gratuita, comunidade, impacto ambiental |
 | **Canais** | Plataforma online, apps, redes sociais, parcerias |
 | **Relacionamento com os clientes** | Comunidade, fóruns, eventos, programa de fidelidade |
@@ -132,8 +132,8 @@ No desenvolvimento de software, um Produto Mínimo Viável (MVP) é a versão ma
 ## Visão Geral das Sprints
 
 | Sprint | Período | Foco | Funcionalidades Principais |
-|---|---|---|---|
-| 1 | Semana 1-2 | Core da plataforma | Criação de perfil, adição de livros, tela inicial, login, cadastro, recuperação de senha. |
+|---|---|---|---|---|
+| 1 | Semana 1-2 | Core da plataforma | Tela Login, Tela Cadastro, Tela Home, Tela Perfil, Tela Editar Perfil, Tela Adicionar Livros, Tela Sobre.  | Valor: |
 | 2 | Semana 3-4 | Descoberta e interação | Pesquisa de livros, detalhes do livro, adição de novos livros à biblioteca. |
 | 3 | Semana 5-6 | Mecânica de troca | Proposta de troca, chat entre usuários, status da troca. |
 | 4 | Semana 7-8 | Social e engajamento | Resenhas, histórico de trocas. |
