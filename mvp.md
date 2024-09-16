@@ -131,13 +131,13 @@ No desenvolvimento de software, um Produto Mínimo Viável (MVP) é a versão ma
 
 ## Visão Geral das Sprints
 
-| Sprint | Período | Foco | Funcionalidades Principais |
+| Sprint | Período | Foco | Funcionalidades Principais | Valor |
 |---|---|---|---|---|
 | 1 | Semana 1-2 | Core da plataforma | Tela Login, Tela Cadastro, Tela Home, Tela Perfil, Tela Editar Perfil, Tela Adicionar Livros, Tela Sobre.  | Valor: |
-| 2 | Semana 3-4 | Descoberta e interação | Pesquisa de livros, detalhes do livro, adição de novos livros à biblioteca. |
-| 3 | Semana 5-6 | Mecânica de troca | Proposta de troca, chat entre usuários, status da troca. |
-| 4 | Semana 7-8 | Social e engajamento | Resenhas, histórico de trocas. |
-| 5 | Semana 9-10 | Refinamento e melhorias | Testes de usabilidade, correção de bugs, aprimoramento da interface. |
+| 2 | Semana 3-4 | Descoberta e interação | Pesquisa de livros, detalhes do livro, adição de novos livros à biblioteca. | |
+| 3 | Semana 5-6 | Mecânica de troca | Proposta de troca, chat entre usuários, status da troca. | |
+| 4 | Semana 7-8 | Social e engajamento | Resenhas, histórico de trocas. | |
+| 5 | Semana 9-10 | Refinamento e melhorias | Testes de usabilidade, correção de bugs, aprimoramento da interface. | |
 
 ### Critérios de Aceitação
 
