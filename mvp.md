@@ -21,10 +21,15 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 ## Time
 
 ### Antonio André Barcelos Chagas - [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+
 ### Caio Santos Silva - [@CaioSantdev](https://github.com/CaioSantdev)
+
 ### Eduardo Henrique Coelho Ramos - [@KiwiProgamador](https://github.com/KiwiProgamador)
+
 ### Laura Barbosa Henrique - [@tinywin](https://github.com/tinywin)
+
 ### Lucas José de Sousa Gomes - [@Yamatosz](https://github.com/Yamatosz)
+
 ### Luiz Carlos Porto do Carmo - [@LuizCPorto](https://github.com/LuizCPorto)
 
 ---
@@ -37,17 +42,17 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 O BookSwap visa solucionar os seguintes problemas:
 
-* **Acessibilidade a livros:** Muitos leitores têm dificuldade em encontrar livros específicos ou desejam diversificar sua biblioteca sem gastar muito dinheiro.
+- **Acessibilidade a livros:** Muitos leitores têm dificuldade em encontrar livros específicos ou desejam diversificar sua biblioteca sem gastar muito dinheiro.
 
-* **Descarte de livros:** Livros que já foram lidos muitas vezes acabam ocupando espaço nas casas e, em muitos casos, são descartados.
+- **Descarte de livros:** Livros que já foram lidos muitas vezes acabam ocupando espaço nas casas e, em muitos casos, são descartados.
 
-* **Isolamento social:** A leitura é uma atividade solitária, e o BookSwap busca criar uma comunidade de leitores, promovendo a interação e o compartilhamento de experiências.
+- **Isolamento social:** A leitura é uma atividade solitária, e o BookSwap busca criar uma comunidade de leitores, promovendo a interação e o compartilhamento de experiências.
 
-* **Sustentabilidade:** Ao incentivar a reutilização de livros, o BookSwap contribui para a redução do consumo de papel e a diminuição do impacto ambiental.
+- **Sustentabilidade:** Ao incentivar a reutilização de livros, o BookSwap contribui para a redução do consumo de papel e a diminuição do impacto ambiental.
 
 ## Business Model Canvas
 
-O Business Model Canvas é uma ferramenta visual que permite descrever, analisar e projetar modelos de negócios. 
+O Business Model Canvas é uma ferramenta visual que permite descrever, analisar e projetar modelos de negócios.
 
 | Elemento | Descrição |
 |---|---|
@@ -63,31 +68,31 @@ O Business Model Canvas é uma ferramenta visual que permite descrever, analisar
 
 ## Mapeamento e Estudo dos Concorrentes: Skoob e Estante Virtual
 
-A análise da concorrência é fundamental para o sucesso do BookSwap. Vamos mapear e estudar os seus principais concorrentes, Skoob e Estante Virtual, para identificarmos suas forças, fraquezas, oportunidades e ameaças (SWOT). 
+A análise da concorrência é fundamental para o sucesso do BookSwap. Vamos mapear e estudar os seus principais concorrentes, Skoob e Estante Virtual, para identificarmos suas forças, fraquezas, oportunidades e ameaças (SWOT).
 
 **Objetivos da Análise:**
 
-* **Compreender o mercado:** Identificar as principais características do mercado de troca e venda de livros online.
+- **Compreender o mercado:** Identificar as principais características do mercado de troca e venda de livros online.
 
-* **Diferenciar o BookSwap:** Encontrar os pontos fortes e fracos dos concorrentes para posicionar o BookSwap de forma única.
+- **Diferenciar o BookSwap:** Encontrar os pontos fortes e fracos dos concorrentes para posicionar o BookSwap de forma única.
 
-* **Desenvolver estratégias:** Elaborar estratégias que permitam ao BookSwap superar os concorrentes e conquistar novos usuários.
+- **Desenvolver estratégias:** Elaborar estratégias que permitam ao BookSwap superar os concorrentes e conquistar novos usuários.
 
 ### Metodologia da Análise
 
 Para realizar uma análise completa, vamos considerar os seguintes aspectos:
 
-* **Modelo de negócio:** Como cada plataforma gera receita? Qual é o seu público-alvo principal?
+- **Modelo de negócio:** Como cada plataforma gera receita? Qual é o seu público-alvo principal?
 
-* **Funcionalidades:** Quais funcionalidades são oferecidas por cada plataforma? Quais são as principais diferenças entre elas?
+- **Funcionalidades:** Quais funcionalidades são oferecidas por cada plataforma? Quais são as principais diferenças entre elas?
 
-* **Comunidade:** Como as comunidades de cada plataforma são construídas e engajadas?
+- **Comunidade:** Como as comunidades de cada plataforma são construídas e engajadas?
 
-* **Marketing e comunicação:** Quais são as principais estratégias de marketing utilizadas por cada concorrente?
+- **Marketing e comunicação:** Quais são as principais estratégias de marketing utilizadas por cada concorrente?
 
-* **Vantagens competitivas:** Quais são as principais vantagens competitivas de cada plataforma?
+- **Vantagens competitivas:** Quais são as principais vantagens competitivas de cada plataforma?
 
-* **Desafios e oportunidades:** Quais são os principais desafios e oportunidades que cada plataforma enfrenta?
+- **Desafios e oportunidades:** Quais são os principais desafios e oportunidades que cada plataforma enfrenta?
 
 ### Análise Comparativa: Skoob x Estante Virtual x BookSwap
 
@@ -114,15 +119,15 @@ No desenvolvimento de software, um Produto Mínimo Viável (MVP) é a versão ma
 
 ## Por que um MVP para o BookSwap?
 
-* **Validar a ideia:** Verificar se há interesse real em uma plataforma de troca de livros.
+- **Validar a ideia:** Verificar se há interesse real em uma plataforma de troca de livros.
 
-* **Coletar feedback:** Entender as necessidades e expectativas dos primeiros usuários. Nos quais serão os próprios desenvolvedores.
+- **Coletar feedback:** Entender as necessidades e expectativas dos primeiros usuários. Nos quais serão os próprios desenvolvedores.
 
-* **Identificar problemas:** Detectar falhas e pontos a serem melhorados.
+- **Identificar problemas:** Detectar falhas e pontos a serem melhorados.
 
-* **Acelerar o desenvolvimento:** Priorizar as funcionalidades mais importantes.
+- **Acelerar o desenvolvimento:** Priorizar as funcionalidades mais importantes.
 
-* **Reduzir custos de tempo:** Evitar o desenvolvimento de funcionalidades que podem não ser necessárias.
+- **Reduzir custos de tempo:** Evitar o desenvolvimento de funcionalidades que podem não ser necessárias.
 
 ## Visão Geral das Sprints
 
@@ -136,20 +141,20 @@ No desenvolvimento de software, um Produto Mínimo Viável (MVP) é a versão ma
 
 ### Critérios de Aceitação
 
-* **Usuário:** O usuário consegue criar um perfil e adicionar livros à sua biblioteca.
+- **Usuário:** O usuário consegue criar um perfil e adicionar livros à sua biblioteca.
 
-* **Sistema:** Os dados do usuário e dos livros são armazenados de forma segura no banco de dados.
+- **Sistema:** Os dados do usuário e dos livros são armazenados de forma segura no banco de dados.
 
-* **Usabilidade:** As telas são intuitivas e fáceis de navegar.
+- **Usabilidade:** As telas são intuitivas e fáceis de navegar.
 
 ## Próximos Passos
 
-* **Design:** Finalizar o design das telas restantes, garantindo consistência visual e boa experiência do usuário.
-  * Disponível em [Prototipação](https://www.figma.com/proto/92SVpi8xxKQfWpxARVSmsQ/Telas-do-bookswap?node-id=1-2&node-type=CANVAS&t=omIRD0rLrkgfpXs7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2).
+- **Design:** Finalizar o design das telas restantes, garantindo consistência visual e boa experiência do usuário.
+  - Disponível em [Prototipação](https://www.figma.com/proto/92SVpi8xxKQfWpxARVSmsQ/Telas-do-bookswap?node-id=1-2&node-type=CANVAS&t=omIRD0rLrkgfpXs7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2).
 
-* **Desenvolvimento:** Iniciar o desenvolvimento das funcionalidades da Sprint 1, utilizando as tecnologias escolhidas.
-  * Disponível em [Modelo Arquitetural](/modelo_aquitetural.md).
+- **Desenvolvimento:** Iniciar o desenvolvimento das funcionalidades da Sprint 1, utilizando as tecnologias escolhidas.
+  - Disponível em [Modelo Arquitetural](/modelo_aquitetural.md).
 
-* **Testes:** Realizar testes unitários e de integração para garantir a qualidade do código.
+- **Testes:** Realizar testes unitários e de integração para garantir a qualidade do código.
 
 *O MVP é um processo iterativo. Mudanças serão feitas para ajustes e adaptações ao longo do desenvolvimento.

@@ -39,10 +39,15 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 ## Time
 
 ### Antonio André Barcelos Chagas - [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+
 ### Caio Santos Silva - [@CaioSantdev](https://github.com/CaioSantdev)
+
 ### Eduardo Henrique Coelho Ramos - [@KiwiProgamador](https://github.com/KiwiProgamador)
+
 ### Laura Barbosa Henrique - [@tinywin](https://github.com/tinywin)
+
 ### Lucas José de Sousa Gomes - [@Yamatosz](https://github.com/Yamatosz)
+
 ### Luiz Carlos Porto do Carmo - [@LuizCPorto](https://github.com/LuizCPorto)
 
 ---
