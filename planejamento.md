@@ -1,3 +1,94 @@
+# Sprint 2 - Planejamento e User Stories
+
+## Objetivos Principais:
+- Concluir funcionalidades importantes para Filtrar Livros, Biblioteca, e Edição de Livros no BackEnd.
+- Implementar e finalizar tarefas de Autenticação, Botão de Detalhe do Livro, e Refatoração de Telas no FrontEnd.
+- Garantir que as funcionalidades estejam bem integradas e com testes adequados.
+
+### Tarefas do BackEnd
+
+#### 1. Finalizar Filtrar Livros (Serializer)
+**User Story**: 
+  - Como um usuário, eu gostaria de poder filtrar os livros na tela de busca, para encontrar o que preciso rapidamente.
+
+**Critérios de Aceitação**:
+  - O sistema deve permitir a filtragem por múltiplos critérios.
+  - A resposta deve estar paginada e ser eficiente.
+
+#### 2. Finalizar Biblioteca
+**User Story**:
+  - Como um usuário, eu gostaria de ter uma visão clara de todos os livros na minha biblioteca para gerenciar o acervo.
+
+**Critérios de Aceitação**:
+  - A biblioteca deve listar todos os livros com detalhes como título, autor, data de publicação, e uma breve descrição.
+  - A biblioteca deve ser capaz de lidar com grandes quantidades de dados eficientemente.
+
+#### 3. Editar Livro
+**User Story**:
+  - Como um administrador, eu gostaria de poder editar os detalhes de um livro existente, para manter as informações atualizadas.
+
+**Critérios de Aceitação**:
+  - O sistema deve permitir a edição de detalhes do livro, como título, autor, ano, e categoria.
+  - A edição deve ser validada e atualizada no banco de dados.
+
+---
+
+### Tarefas do FrontEnd
+
+#### 1. Finalizar Filtrar Livros
+**User Story**:
+  - Como um usuário, eu gostaria de ter uma interface intuitiva para filtrar livros na biblioteca online.
+
+**Critérios de Aceitação**:
+  - A UI deve ter campos de filtro para autor, ano, e gênero.
+  - A filtragem deve ser eficiente e os resultados devem aparecer em tempo real (com debounce para otimização de chamadas API).
+
+#### 2. Botão DetailLivro
+**User Story**:
+  - Como um usuário, eu gostaria de clicar em um livro na lista para ver mais detalhes sobre ele, incluindo uma descrição completa e links para ações (como editar ou excluir, se for admin).
+
+**Critérios de Aceitação**:
+  - O botão deve abrir uma visualização de detalhes em modal ou nova página.
+  - Deve incluir o título, autor, sinopse, e botões de ação (como editar, excluir, ou voltar).
+
+#### 3. Autenticação
+**User Story**:
+  - Como um usuário, eu gostaria de poder me autenticar no sistema, para acessar áreas restritas e gerenciar meu conteúdo.
+
+**Critérios de Aceitação**:
+  - O sistema deve permitir login e logout.
+  - As credenciais devem ser validadas com segurança (JWT ou outra forma de token).
+  - Feedback adequado deve ser dado ao usuário em caso de erro.
+
+#### 4. Refresh de Sessão
+**User Story**:
+  - Como um usuário autenticado, eu gostaria de ter minha sessão automaticamente atualizada para não precisar fazer login várias vezes.
+
+**Critérios de Aceitação**:
+  - O token de autenticação deve ser renovado automaticamente enquanto o usuário interage com o sistema.
+  - Aviso ao usuário caso a sessão expire após um longo período de inatividade.
+
+#### 5. Refatoração de Telas da 1ª Sprint
+**User Story**:
+  - Como desenvolvedor, eu gostaria de refatorar o código da interface para garantir sua escalabilidade e manutenibilidade.
+
+**Critérios de Aceitação**:
+  - A interface deve seguir boas práticas de design (componentização, reutilização de código).
+  - O layout e a responsividade devem ser revisados para consistência e otimização.
+
+---
+
+### Objetivos de Entrega para a Segunda Sprint
+1. **BackEnd**:
+   - Funções de filtragem finalizadas e otimizadas.
+   - Edição e visualização de livros implementada.
+   - Testes adequados para garantir a funcionalidade do sistema.
+
+2. **FrontEnd**:
+   - Implementação da autenticação e manutenção de sessão (refresh).
+   - Detalhamento e visualização de livros com filtros funcionais.
+   - Refatoração de componentes da interface para manter escalabilidade e facilitar futuras alterações.
+
 # Sprint 3 - Relação dos Usuários com Perfis
 
 O objetivo desta sprint é desenvolver funcionalidades que permitam aos usuários interagir com perfis de outros usuários na plataforma.
