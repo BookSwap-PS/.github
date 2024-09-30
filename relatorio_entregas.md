@@ -120,7 +120,7 @@ Esta Sprint teve como foco principal o desenvolvimento de novas funcionalidades 
    - **Autor**:  [@andrebarceloschagas](https://github.com/andrebarceloschagas)
    - **Revisor**:  
 2. **Feat: Autenticação**
-   - **Autor**:  [@KiwiProgamador](https://github.com/KiwiProgamador)
+   - **Autor**:  [@KiwiProgamador](https://github.com/HelloKiw1)
    - **Revisor**:  
 3. **Feat: Refresh**
    - **Autor**:  [@tinywin](https://github.com/tinywin)
