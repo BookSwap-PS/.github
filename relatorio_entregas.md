@@ -65,7 +65,7 @@ Ainda existem algumas funcionalidades em desenvolvimento e planejamento:
 ## Relatório da segunda Sprint (16/09/2024 - 30/09/2024)
 
 ### Objetivo:
-Esta Sprint teve como foco principal o desenvolvimento de novas funcionalidades de back-end e front-end, e ajustes em funcionalidades já existentes da aplicação **BookSwap**, com o objetivo de aprimorar a versão já funcional do sistema para o gerenciamento de livros e usuários.
+Nesta Sprint, o foco principal foi o desenvolvimento de novas funcionalidades tanto no back-end quanto no front-end, além de ajustes em recursos já existentes da aplicação BookSwap. O objetivo foi aprimorar a versão funcional do sistema, com a adição de novas funcionalidades para proporcionar uma experiência de uso ainda mais agradável e eficiente para os usuários.
 
 
 ### Funcionalidades Desenvolvidas:
