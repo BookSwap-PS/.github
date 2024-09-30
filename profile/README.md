@@ -54,3 +54,5 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 ## [Planejamento](https://github.com/orgs/BookSwap-PS/projects/3)
 
 ## [Relatórios de Entregas](/relatorio_entregas.md)
+
+## [Planejamento das Sprints](/planejamento.md)
