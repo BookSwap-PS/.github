@@ -64,6 +64,10 @@ Ainda existem algumas funcionalidades em desenvolvimento e planejamento:
 ##
 ## Relatório da segunda Sprint (16/09/2024 - 30/09/2024)
 
+### Objetivo:
+Esta Sprint teve como foco principal o desenvolvimento de novas funcionalidades de back-end e front-end, e ajustes em funcionalidades já existentes da aplicação **BookSwap**, com o objetivo de aprimorar a versão já funcional do sistema para o gerenciamento de livros e usuários.
+
+
 ### Funcionalidades Desenvolvidas:
 
 #### Back-End (Concluído):
@@ -121,3 +125,8 @@ Ainda existem algumas funcionalidades em desenvolvimento e planejamento:
 4. **Feat: Refresh**
    - **Autor**:  [@tinywin](https://github.com/tinywin)
    - **Revisor**:  
+
+### Observações:
+- Durante esta sprint, alguns integrantes conseguiram concluir com sucesso as tarefas planejadas tanto para o back-end quanto para o front-end, mantendo o sistema funcional.
+- Alguns integrantes estiveram ausentes durante toda a sprint ou entregaram resultados não funcionais.
+##
