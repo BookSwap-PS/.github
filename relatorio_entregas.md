@@ -111,18 +111,18 @@ Esta Sprint teve como foco principal o desenvolvimento de novas funcionalidades 
 5. **Fix: Refatoração tela de Biblioteca**
    - **Autor**: [@LuizCPorto](https://github.com/LuizCPorto)
    - **Revisor**:  [@CaioSantdev](https://github.com/CaioSantdev)
+6. **Feat: Filtrar livros** 
+   - **Autor**: [@yamatosz](https://github.com/yamatosz).
+   - **Revisor**: [@CaioSantdev](https://github.com/CaioSantdev)
 
 #### Front-End (Pendente):
-1. **Feat: Filtrar livros** 
-   - **Autor**:  
-   - **Revisor**:  
-2. **Feat: Botão DetailLivro** 
+1. **Feat: Botão DetailLivro** 
    - **Autor**:  [@andrebarceloschagas](https://github.com/andrebarceloschagas)
    - **Revisor**:  
-3. **Feat: Autenticação**
-   - **Autor**:  
+2. **Feat: Autenticação**
+   - **Autor**:  [@KiwiProgamador](https://github.com/KiwiProgamador)
    - **Revisor**:  
-4. **Feat: Refresh**
+3. **Feat: Refresh**
    - **Autor**:  [@tinywin](https://github.com/tinywin)
    - **Revisor**:  
 
