@@ -188,4 +188,5 @@ Nesta Sprint, o foco principal foi o desenvolvimento de novas funcionalidades ta
 - Alguns integrantes estiveram ausentes durante a sprint ou entregaram resultados não funcionais.
 ##
 
+##[Video da versão viavel](https://youtu.be/nc3TQC9kZqI)## 
 
