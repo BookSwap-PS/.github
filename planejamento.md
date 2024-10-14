@@ -186,7 +186,9 @@ Como usuário, eu gostaria de comentar os livros de outras pessoas, para discuti
 
 ## User Stories e Regras de Negócio
 
-### **User Story 1: Sistema de Chat**
+### **RF1: Sistema de Chat**
+
+**User Stories:**
 Como um usuário, eu quero poder enviar e receber mensagens via chat com outros usuários, para facilitar a comunicação sobre trocas e interações.
 
 **Regra de Negócio**  
@@ -208,7 +210,9 @@ Somente usuários autenticados podem utilizar o chat.
 
 ---
 
-### **User Story 2: Livros Disponíveis para Troca**
+### **RF2: Livros Disponíveis para Troca**
+
+**User Stories:**
 Como um usuário, eu quero visualizar uma lista de livros disponíveis para troca, para encontrar possíveis opções de troca de livros.
 
 **Regra de Negócio**  
@@ -229,7 +233,9 @@ Apenas livros marcados como "Disponíveis para Troca" devem aparecer na lista.
 
 ---
 
-### **User Story 3: Recuperação de Senha**
+### **RF3: Recuperação de Senha**
+
+**User Stories:**
 Como um usuário, eu quero poder recuperar minha senha, para que eu possa restaurar o acesso à minha conta caso eu esqueça minha senha.
 
 **Regra de Negócio**  
@@ -251,8 +257,10 @@ O sistema deve enviar um e-mail para redefinição de senha somente para usuári
 
 ---
 
-### **User Story 4: Funcionalidades Pendentes de Sprints Anteriores**
-Como um usuário, eu quero que todas as funcionalidades prometidas estejam finalizadas, para garantir uma experiência completa e funcional.
+### **RF4: Funcionalidades Pendentes de Sprints Anteriores**
+
+**User Stories:**
+ Como um usuário, eu quero que todas as funcionalidades prometidas estejam finalizadas, para garantir uma experiência completa e funcional.
 
 **Regra de Negócio**  
 As funcionalidades pendentes devem ser priorizadas e finalizadas.
