@@ -170,7 +170,7 @@ Nesta Sprint, o foco principal foi o desenvolvimento de novas funcionalidades ta
    - **Revisor**:  [@yamatosz](https://github.com/yamatosz)
    - **Resultado**:
    - ![Seguir](https://github.com/user-attachments/assets/63ea4747-8b26-462f-903a-77826cbcf72e)
-   - ![Deixar de seguir](https://github.com/user-attachments/assets/d3b49213-c493-483e-934a-83af440ac8bb)
+     ![Deixar de seguir](https://github.com/user-attachments/assets/d3b49213-c493-483e-934a-83af440ac8bb)
 
 
 #### Back-End (Pendente):
