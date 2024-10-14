@@ -136,7 +136,8 @@ Nesta Sprint, o foco principal foi o desenvolvimento de novas funcionalidades ta
 ### Objetivo:
 Nesta Sprint, o foco principal foi o desenvolvimento de novas funcionalidades tanto no back-end quanto no front-end, além de ajustes em recursos já existentes da aplicação BookSwap. O objetivo foi aprimorar a versão funcional do sistema, com a adição de novas funcionalidades para proporcionar uma experiência de uso ainda mais agradável e eficiente para os usuários.
 
-### Valor: Como usuário do Book Swap, quero ter acesso a funcionalidades que permitam interagir com perfis de outros usuários, incluindo seguir, comentar, curtir e visualizar suas bibliotecas, para criar conexões e compartilhar experiências literárias.
+### Valor:
+Como usuário do Book Swap, quero ter acesso a funcionalidades que permitam interagir com perfis de outros usuários, incluindo seguir, comentar, curtir e visualizar suas bibliotecas, para criar conexões e compartilhar experiências literárias.
 
 
 ### Funcionalidades Desenvolvidas:
@@ -188,5 +189,6 @@ Nesta Sprint, o foco principal foi o desenvolvimento de novas funcionalidades ta
 - Alguns integrantes estiveram ausentes durante a sprint ou entregaram resultados não funcionais.
 ##
 
-##[Video da versão viavel](https://youtu.be/nc3TQC9kZqI)## 
+### [Video da versão viavel](https://youtu.be/nc3TQC9kZqI)
+##
 
