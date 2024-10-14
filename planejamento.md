@@ -175,3 +175,114 @@ Como usuário, eu gostaria de comentar os livros de outras pessoas, para discuti
 - Implementar funcionalidade de adicionar resenhas aos livros.
 - Implementar funcionalidade de curtir livros de outros usuários.
 - Implementar funcionalidade de comentar em livros de outros usuários.
+
+##
+
+# Sprint 4: Sistema de Chat, Troca de Livros e Recuperação de Senha
+
+**Valor**: Permitir que os usuários conversem via chat, visualizem livros disponíveis para troca, proponham trocas, recuperem suas senhas e desfrute de todas funcionalidades da aplicação.
+
+---
+
+## User Stories e Regras de Negócio
+
+### **User Story 1: Sistema de Chat**
+Como um usuário, eu quero poder enviar e receber mensagens via chat com outros usuários, para facilitar a comunicação sobre trocas e interações.
+
+**Regra de Negócio**  
+Somente usuários autenticados podem utilizar o chat.
+
+**Tarefas**:  
+- **Backend**: Implementar a funcionalidade de enviar e receber mensagens no sistema.  
+- **Frontend**: 
+  - Criar a interface do chat.  
+  - Implementar a lógica de envio e recebimento de mensagens.  
+
+**Critérios de Aceitação**:
+- O sistema deve permitir a troca de mensagens em tempo real.
+- Somente usuários autenticados podem iniciar conversas.
+
+**Prototipação da Tela de Chat**  
+![Tela chat](https://github.com/user-attachments/assets/8a467d61-cc06-49bf-974f-407ec0f3fd65)
+
+
+---
+
+### **User Story 2: Livros Disponíveis para Troca**
+Como um usuário, eu quero visualizar uma lista de livros disponíveis para troca, para encontrar possíveis opções de troca de livros.
+
+**Regra de Negócio**  
+Apenas livros marcados como "Disponíveis para Troca" devem aparecer na lista.
+
+**Tarefas**:  
+- **Backend**: Implementar a funcionalidade para listar livros disponíveis para troca.  
+- **Frontend**: 
+  - Criar uma interface para exibir os livros disponíveis.  
+  - Implementar lógica de filtro para exibir apenas livros disponíveis para troca.  
+
+**Critérios de Aceitação**:
+- Somente livros marcados como disponíveis para troca devem aparecer.
+- A lista deve ser atualizada conforme a disponibilidade dos livros.
+
+**Prototipação da Tela de Livros Disponíveis para Troca**  
+![Tela disponíveis para troca](https://github.com/user-attachments/assets/8e7ad1a3-7941-462f-8819-8b788cccb75f)
+
+---
+
+### **User Story 3: Propor Troca de Livros**
+Como um usuário, eu quero propor a troca de um livro com outro usuário, para que possamos negociar trocas de maneira eficiente.
+
+**Regra de Negócio**  
+Apenas usuários autenticados podem propor trocas de livros.
+
+**Tarefas**:  
+- **Backend**: Implementar a funcionalidade para envio de propostas de troca.  
+- **Frontend**: 
+  - Criar uma interface para propor a troca de livros.  
+  - Implementar lógica para envio de proposta de troca.  
+
+**Critérios de Aceitação**:
+- Usuários podem enviar propostas de troca com base nos livros disponíveis.
+- O sistema deve permitir o acompanhamento do status da proposta de troca.
+
+**Prototipação da Tela de Proposta de Troca**  
+![Tela propor troca](https://github.com/user-attachments/assets/c07aaeb4-0c90-4a88-9e19-1238fed122b0)
+
+
+---
+
+### **User Story 4: Recuperação de Senha**
+Como um usuário, eu quero poder recuperar minha senha, para que eu possa restaurar o acesso à minha conta caso eu esqueça minha senha.
+
+**Regra de Negócio**  
+O sistema deve enviar um e-mail para redefinição de senha somente para usuários autenticados.
+
+**Tarefas**:  
+- **Backend**: Implementar a funcionalidade de recuperação de senha e envio de e-mails.  
+- **Frontend**: 
+  - Criar interface para solicitar recuperação de senha.  
+  - Implementar lógica de envio de solicitação de recuperação.  
+
+**Critérios de Aceitação**:
+- O sistema deve permitir a solicitação de redefinição de senha via e-mail.
+- A recuperação de senha deve ser concluída com sucesso após o envio do link.
+
+**Prototipação da Tela de Recuperação de Senha**  
+![email](https://github.com/user-attachments/assets/cabcd6b6-a3e7-48a7-9d67-683682307940)
+
+
+---
+
+### **User Story 5: Funcionalidades Pendentes de Sprints Anteriores**
+Como um usuário, eu quero que todas as funcionalidades prometidas estejam finalizadas, para garantir uma experiência completa e funcional.
+
+**Regra de Negócio**  
+As funcionalidades pendentes devem ser priorizadas e finalizadas.
+
+**Tarefas**:  
+- **Backend** e **Frontend**: Revisar e finalizar as funcionalidades pendentes.  
+
+**Critérios de Aceitação**:
+- Todas as funcionalidades das sprints anteriores devem estar operacionais e testadas.
+
+
