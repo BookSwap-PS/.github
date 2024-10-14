@@ -229,29 +229,7 @@ Apenas livros marcados como "Disponíveis para Troca" devem aparecer na lista.
 
 ---
 
-### **User Story 3: Propor Troca de Livros**
-Como um usuário, eu quero propor a troca de um livro com outro usuário, para que possamos negociar trocas de maneira eficiente.
-
-**Regra de Negócio**  
-Apenas usuários autenticados podem propor trocas de livros.
-
-**Tarefas**:  
-- **Backend**: Implementar a funcionalidade para envio de propostas de troca.  
-- **Frontend**: 
-  - Criar uma interface para propor a troca de livros.  
-  - Implementar lógica para envio de proposta de troca.  
-
-**Critérios de Aceitação**:
-- Usuários podem enviar propostas de troca com base nos livros disponíveis.
-- O sistema deve permitir o acompanhamento do status da proposta de troca.
-
-**Prototipação da Tela de Proposta de Troca**  
-![Tela propor troca](https://github.com/user-attachments/assets/c07aaeb4-0c90-4a88-9e19-1238fed122b0)
-
-
----
-
-### **User Story 4: Recuperação de Senha**
+### **User Story 3: Recuperação de Senha**
 Como um usuário, eu quero poder recuperar minha senha, para que eu possa restaurar o acesso à minha conta caso eu esqueça minha senha.
 
 **Regra de Negócio**  
@@ -273,7 +251,7 @@ O sistema deve enviar um e-mail para redefinição de senha somente para usuári
 
 ---
 
-### **User Story 5: Funcionalidades Pendentes de Sprints Anteriores**
+### **User Story 4: Funcionalidades Pendentes de Sprints Anteriores**
 Como um usuário, eu quero que todas as funcionalidades prometidas estejam finalizadas, para garantir uma experiência completa e funcional.
 
 **Regra de Negócio**  
