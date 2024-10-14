@@ -257,7 +257,7 @@ O sistema deve enviar um e-mail para redefinição de senha somente para usuári
 
 ---
 
-### **RF4: Funcionalidades Pendentes de Sprints Anteriores**
+### **FX 4: Funcionalidades Pendentes de Sprints Anteriores**
 
 **User Stories:**
  Como um usuário, eu quero que todas as funcionalidades prometidas estejam finalizadas, para garantir uma experiência completa e funcional.
