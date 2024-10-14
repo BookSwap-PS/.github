@@ -130,3 +130,61 @@ Nesta Sprint, o foco principal foi o desenvolvimento de novas funcionalidades ta
 - Durante esta sprint, alguns integrantes conseguiram concluir com sucesso as tarefas planejadas tanto para o back-end quanto para o front-end, mantendo o sistema funcional.
 - Alguns integrantes estiveram ausentes durante toda a sprint ou entregaram resultados não funcionais.
 ##
+
+## Relatório da terceira Sprint (30/09/2024 - 14/10/2024)
+
+### Objetivo:
+Nesta Sprint, o foco principal foi o desenvolvimento de novas funcionalidades tanto no back-end quanto no front-end, além de ajustes em recursos já existentes da aplicação BookSwap. O objetivo foi aprimorar a versão funcional do sistema, com a adição de novas funcionalidades para proporcionar uma experiência de uso ainda mais agradável e eficiente para os usuários.
+
+### Valor: Como usuário do Book Swap, quero ter acesso a funcionalidades que permitam interagir com perfis de outros usuários, incluindo seguir, comentar, curtir e visualizar suas bibliotecas, para criar conexões e compartilhar experiências literárias.
+
+
+### Funcionalidades Desenvolvidas:
+
+#### Back-End (Concluído):
+1. **Feat: Adicionar resenha**  
+   - **Autor**:  [@LuizCPorto](https://github.com/LuizCPorto)
+   - **Revisor**:  [@CaioSantdev](https://github.com/CaioSantdev)
+2. **Feat: Buscar usuarios**  
+   - **Autor**:  [@tinywin](https://github.com/tinywin))
+   - **Revisor**:  [@CaioSantdev](https://github.com/CaioSantdev)
+3. **Feat: Seguir e ser seguido**  
+   - **Autor**:  [@CaioSantdev](https://github.com/CaioSantdev)
+   - **Revisor**:  [@yamatosz](https://github.com/yamatosz)
+
+#### Front-End (Concluído):
+1. **Feat: Adicionar resenha** 
+   - **Autor**:  [@LuizCPorto](https://github.com/LuizCPorto)
+   - **Revisor**:  [@CaioSantdev](https://github.com/CaioSantdev)
+   - **Resultado:**
+   - ![Add resenha](https://github.com/user-attachments/assets/567fe896-8322-44af-a01e-c560ff28d2a5)
+
+2. **Feat: Buscar usuarios**  
+   - **Autor**:  [@tinywin](https://github.com/tinywin))
+   - **Revisor**:  [@CaioSantdev](https://github.com/CaioSantdev)
+   - **Resultado:**
+   - ![Buscar usuario](https://github.com/user-attachments/assets/2174546b-f9c8-40c4-8171-318006069bfb)
+
+3. **Feat: Seguir e ser seguido**  
+   - **Autor**:  [@CaioSantdev](https://github.com/CaioSantdev)
+   - **Revisor**:  [@yamatosz](https://github.com/yamatosz)
+   - **Resultado**:
+   - ![Deixar de seguir](https://github.com/user-attachments/assets/d3b49213-c493-483e-934a-83af440ac8bb)
+![Seguir](https://github.com/user-attachments/assets/63ea4747-8b26-462f-903a-77826cbcf72e)
+
+#### Back-End (Pendente):
+1. **Feat: Curtir e comentar um livro** 
+   - **Autor**:  [@yamatosz](https://github.com/yamatosz)
+   - **Revisor**:  
+
+#### Front-End (Pendente):
+1. **Feat: Curtir e comentar um livro** 
+   - **Autor**:  [@yamatosz](https://github.com/yamatosz)
+   - **Revisor**:  
+
+### Observações:
+- Durante esta sprint, alguns integrantes conseguiram concluir com sucesso as tarefas planejadas tanto para o back-end quanto para o front-end, mantendo o sistema funcional.
+- Alguns integrantes estiveram ausentes durante a sprint ou entregaram resultados não funcionais.
+##
+
+
