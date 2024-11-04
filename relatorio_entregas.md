@@ -192,3 +192,67 @@ Como usuário do Book Swap, quero ter acesso a funcionalidades que permitam inte
 ### [Video da versão viavel](https://youtu.be/nc3TQC9kZqI)
 ##
 
+# Relatório da Quarta Sprint (15/10/2024 - 04/11/2024)
+
+## Objetivo
+Nesta Sprint, o foco principal foi aprimorar funcionalidades de interação e gamificação para melhorar a experiência dos usuários do sistema BookSwap. A meta incluiu a adição de recursos para chat entre usuários, histórico de trocas com avaliação e pontuação, além de aprimoramentos nas funcionalidades de busca e visualização de detalhes dos livros.
+
+## Valor
+**Como usuário do BookSwap**, quero ter uma experiência interativa e gamificada, com funcionalidades que permitam trocas avaliadas, interação com outros usuários via chat, e ferramentas que facilitem a busca e organização dos meus livros, para criar uma comunidade ativa e engajada.
+
+## Funcionalidades Desenvolvidas
+
+### Back-End (Concluído)
+- **Feat: Chat entre usuários**
+  - **Autor**: [@CaioSantdev](https://github.com/CaioSantdev)
+  - **Revisor**: [@LuizCPorto](https://github.com/LuizCPorto)
+
+- **Feat: Histórico de trocas (com avaliação e pontuação)**
+  - **Autor**: [@LauraGomes](https://github.com/LauraGomes)
+  - **Revisor**: [@CaioSantdev](https://github.com/CaioSantdev)
+
+- **Feat: Curtir e comentar no livro**
+  - **Autor**: [@LuizCPorto](https://github.com/LuizCPorto)
+  - **Revisor**: [@Lucadev](https://github.com/Lucadev)
+
+- **Feat: Botão de disponibilidade de troca**
+  - **Autor**: [@CaioSantdev](https://github.com/CaioSantdev)
+  - **Revisor**: [@LuizCPorto](https://github.com/LuizCPorto)
+
+### Front-End (Concluído)
+- **Feat: Chat entre usuários**
+  - **Autor**: [@CaioSantdev](https://github.com/CaioSantdev)
+  - **Revisor**: [@Lucadev](https://github.com/Lucadev)
+- **Feat: Histórico de trocas (com avaliação e pontuação)**
+  - **Autor**: [@LauraGomes](https://github.com/LauraGomes)
+  - **Revisor**: [@CaioSantdev](https://github.com/CaioSantdev)
+
+- **Feat: Curtir e comentar no livro**
+  - **Autor**: [@LuizCPorto](https://github.com/LuizCPorto)
+  - **Revisor**: [@yamatosz](https://github.com/yamatosz)
+
+- **Feat: Botão de disponibilidade de troca**
+  - **Autor**: [@LuizCPorto](https://github.com/LuizCPorto)
+  - **Revisor**: [@CaioSantdev](https://github.com/CaioSantdev)
+
+### Front-End (Pendente)
+- **Feat: Ajustar parte de pesquisa**
+  - **Autor**: [@Lucadev](https://github.com/Lucadev)
+  - **Revisor**: 
+
+- **Feat: Editar Livro**
+  - **Autor**: [@LauraGomes](https://github.com/LauraGomes)
+  - **Revisor**: [@CaioSantdev](https://github.com/CaioSantdev)
+
+### Front-End (Pendente)
+- **Feat: Ajustar a detail livro**
+  - **Autor**: [@LuizCPorto](https://github.com/LuizCPorto)
+  - **Revisor**: [@Lucadev](https://github.com/Lucadev)
+
+## Observações
+- A Sprint foi produtiva, com as principais funcionalidades completadas tanto no back-end quanto no front-end.
+- Algumas tarefas de ajustes visuais e de pesquisa estão pendentes, devido a ausências e necessidade de aprimoramento de requisitos.
+- Tivemos conflito entre os integrantes pois estava tentando enviar algo que não estava funcional.
+
+
+
