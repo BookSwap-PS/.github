@@ -18,6 +18,10 @@ um sistema profissionalmente desenvolvido.
 
 ---
 
+### [Repositorio dos demais projetos da turma de Projeto de Sistemas 2024/2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2) 
+
+---
+
 - Índice
   - [Descrição do Produto](#descrição-do-produto)
   - [Time](#time)
@@ -45,10 +49,6 @@ BookSwap é uma plataforma online projetada para aproximar amantes de livros, in
 ### Laura Barbosa Henrique - [@tinywin](https://github.com/tinywin)
 
 ### Luiz Carlos Porto do Carmo - [@LuizCPorto](https://github.com/LuizCPorto)
-
----
-
-### [Projeto de Sistemas 2024/2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2) - Professor Edeilson
 
 ---
 
