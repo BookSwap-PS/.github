@@ -3,6 +3,21 @@
 
 ![logo](https://github.com/user-attachments/assets/f4c41849-31d1-43dc-b9be-26cc731e0b18)
 
+**Universidade**: Universidade Federal do Tocantins (UFT)
+**Disciplina**: Projeto de Sistemas  
+**Ano/Semestre**: 2024/2  
+**Professor**: Edeilson Milhomem da Silva
+**Curso**: Ciência da Computação 
+
+## Descrição da Disciplina 
+
+Esta disciplina visa acompanhar os acadêmicos no desenvolvimento de sistemas de informação analisando
+(estimulando) a capacidade de trabalho em equipe, auxiliando no exercício da liderança, na aplicação
+de padrões de desenvolvimento, ferramentas automatizadas e efetiva gerência para a construção de
+um sistema profissionalmente desenvolvido.
+
+---
+
 - Índice
   - [Descrição do Produto](#descrição-do-produto)
   - [Time](#time)
@@ -14,22 +29,20 @@
   - [FrontEnd](#frontend)
   - [Planejamento](#planejamento)
   - [Relatório de Entregas](#relatórios-de-entregas)
+  - [Site do Produto](#Site-do-Produto)
+  - [Video Comercia](#Video-Comercia)
+  - [Apresentação Técnica](#Apresentação-Técnica)
+  - [Apresentação Comercial](#Apresentação-Comercial)
 
 ## Descrição do produto
 
-BookSwap é uma plataforma online que conecta amantes de livros, facilitando a troca de títulos e a construção de uma comunidade literária. Crie um perfil, adicione seus livros à biblioteca virtual e explore o catálogo de outros usuários para encontrar o próximo livro para ler.
+BookSwap é uma plataforma online projetada para aproximar amantes de livros, incentivando a troca de obras literárias e a criação de uma comunidade colaborativa. Com o BookSwap, os usuários podem criar perfis personalizados, adicionar seus livros a uma biblioteca virtual e explorar o acervo de outros membros. A plataforma facilita o contato direto para negociações, permitindo que os usuários encontrem títulos de interesse e compartilhem suas leituras sem custos. O BookSwap visa fomentar o compartilhamento de conhecimento e a construção de conexões através do amor pelos livros, transformando cada troca em uma oportunidade de descoberta e interação social.
 
 ## Time
 
-### Antonio André Barcelos Chagas - [@andrebarceloschagas](https://github.com/andrebarceloschagas)
-
 ### Caio Santos Silva - [@CaioSantdev](https://github.com/CaioSantdev)
 
-### Eduardo Henrique Coelho Ramos - [@KiwiProgamador](https://github.com/HelloKiw1)
-
 ### Laura Barbosa Henrique - [@tinywin](https://github.com/tinywin)
-
-### Lucas José de Sousa Gomes - [@Yamatosz](https://github.com/Yamatosz)
 
 ### Luiz Carlos Porto do Carmo - [@LuizCPorto](https://github.com/LuizCPorto)
 
@@ -56,3 +69,11 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 ## [Relatórios de Entregas](/relatorio_entregas.md)
 
 ## [Planejamento das Sprints](/planejamento.md)
+
+## [Site do Produto]()
+
+## [Video Comercia]()
+
+## [Apresentação Técnica]()
+
+## [Apresentação Comercial]()
