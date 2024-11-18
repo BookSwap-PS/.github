@@ -3,7 +3,7 @@
 
 ![logo](https://github.com/user-attachments/assets/f4c41849-31d1-43dc-b9be-26cc731e0b18)
 
-**Universidade**: Universidade Federal do Tocantins (UFT)
+**Universidade**: Universidade Federal do Tocantins (UFT)  
 **Disciplina**: Projeto de Sistemas  
 **Ano/Semestre**: 2024/2  
 **Professor**: Edeilson Milhomem da Silva  
