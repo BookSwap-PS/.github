@@ -81,7 +81,7 @@ BookSwap é uma plataforma online projetada para aproximar amantes de livros, in
 
 ## [Site do Produto]()
 
-## [Video Comercia]()
+## [Video Comercial]()
 
 ## [Apresentação Técnica]()
 
