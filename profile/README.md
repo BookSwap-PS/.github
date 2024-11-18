@@ -37,6 +37,7 @@ um sistema profissionalmente desenvolvido.
   - [Video Comercia](#Video-Comercia)
   - [Apresentação Técnica](#Apresentação-Técnica)
   - [Apresentação Comercial](#Apresentação-Comercial)
+  - [Modelo Canvas](#Modelo-Canvas)
 
 ## Descrição do produto
 
