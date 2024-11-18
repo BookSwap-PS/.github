@@ -6,7 +6,7 @@
 **Universidade**: Universidade Federal do Tocantins (UFT)
 **Disciplina**: Projeto de Sistemas  
 **Ano/Semestre**: 2024/2  
-**Professor**: Edeilson Milhomem da Silva
+**Professor**: Edeilson Milhomem da Silva  
 **Curso**: Ciência da Computação 
 
 ## Descrição da Disciplina 
