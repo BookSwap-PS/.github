@@ -51,10 +51,6 @@ BookSwap é uma plataforma online projetada para aproximar amantes de livros, in
 
 ---
 
-### Laura Barbosa Henrique - [@tinywin](https://github.com/tinywin)
-
----
-
 ### Luiz Carlos Porto do Carmo - [@LuizCPorto](https://github.com/LuizCPorto)
 ## Foto do integrante Luiz Carlos: 
 <img src="https://github.com/user-attachments/assets/afecb964-6002-41a3-843b-5e25a2485d89" alt="Foto Luiz" width="150"/>
