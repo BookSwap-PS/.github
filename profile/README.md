@@ -75,11 +75,11 @@ BookSwap é uma plataforma online projetada para aproximar amantes de livros, in
 
 ## [Planejamento das Sprints](/planejamento.md)
 
-## [Site do Produto]()
+## [Site do Produto](https://bookswap.my.canva.site/)
 
-## [Video Comercial]()
+## [Video Comercial](https://youtu.be/3X5sO-Ve1Yo)
 
-## [Apresentação Técnica]()
+## [Apresentação Técnica](https://www.canva.com/design/DAGXIPsFdHY/sWDwNkCGRw8uBH3vmnxyhw/edit?utm_content=DAGXIPsFdHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## [Apresentação Comercial]()
 
